@@ -11,12 +11,12 @@ import { AuthService } from 'src/services/auth.service';
 export class AppComponent implements OnInit, OnDestroy{
 
   ngOnInit(): void {
-    
+    console.log('Project Init Success !');
   }
   title = 'DevDesk-Angular';
 
   constructor(private authService : AuthService){
-    this.authenticateUser();
+    //this.authenticateUser();
   }
 
   //Authenticate User
