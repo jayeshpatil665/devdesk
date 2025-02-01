@@ -1,20 +1,16 @@
-# devdesk
+# Project devdesk
 DevDesk is designed to streamline task management for developers, support teams, and business analysts.
 It offers an intuitive UI, powerful tools, and seamless navigation to help teams stay organized and productive.
 
-This repository serves as an index for DevDesk project's frontend and backend.
+This repository serves as an index for devdesk project's frontend and backend.
 
-## 📢 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jayeshpatil665/)
-
-DevDesk/<br>
-├── frontend/ 🚀 **Frontend Repository:** [GitHub Link](https://github.com/jayeshpatil665/devdesk-frontend) <br>
-├── backend/   🔥 **Backend Repository:** [GitHub Link](https://github.com/jayeshpatil665/devdesk-backend) <br>
+devdesk<br>
+├── 🚀 **Frontend Repository:** [GitHub Link](https://github.com/jayeshpatil665/devdesk-frontend) <br>
+├── 🔥 **Backend Repository:** [GitHub Link](https://github.com/jayeshpatil665/devdesk-backend) <br>
 ├── README.md  (This file)<br>
 
 ## Demo
-✨ **Live Demo:** [🔗 Visit Website](AWS EC2 instance URL - IP is keep changing)  
-
+✨ **Live Demo:** [🔗 Visit Website](No static IP set for now)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jayeshpatil665/)
 ## 📸 **Screenshots**
 
 🔐 Login Page ![Login Page](screenshots/login.png) | <br>
